@@ -39,7 +39,7 @@ jobs:
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
-          repository: sergei/flask-app
+          repository: sergeidocker/flask-app
           tag_with_ref: true
           
   deploy:
@@ -54,7 +54,7 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           #passphrase: ${{ secrets.PASSPHRASE }} # если ваш ssh-ключ защищен фразой-паролем
           script: |
-            sudo docker pull work-development/flask-app
+            sudo docker pull sergei/flask-app
             sudo docker stop $(docker ps -a -q)
-            sudo docker run --rm -d -p 5000:5000 work-development/flask-app
+            sudo docker run --rm -d -p 5000:5000 sergei/flask-app
  
