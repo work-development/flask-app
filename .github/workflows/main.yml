@@ -51,31 +51,7 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          key: $ MIIEowIBAAKCAQEArG0z7tmUleAhoyZGqFW7IImLZZ1C/oiyB7YeBdJ/3KIu2Quh
-                LeQxgf8ucRXIpBsnT6XPh6Sv9CDJ9a6WcVfN5ADK/8jMZEMqQcxStJftum4Kpg5S
-                ubYVtn3Gd28sFNb96OdqrSbJHBv1eBXF+gQXOSqZskPKnK5RrytwBzz5LiWIKjCF
-                H94o1M0tfr2fjJ+Cz/5QzgN1NxUMl0SK4Y/5h5r8+UFVMySC8MBZlpJErSR3AkWO
-                dj1V92Dx3lcPxkaSVG2feBvligjjnJIxi+nytrwnLTSwpp/UsWff9LyFr8BHpbXw
-                mxWoXUl6B+bRb4bOXoGn6xzFq3dtJJGhH59zlQIDAQABAoIBAB9ZH0b+gdgZzqPF
-                0rTKGWJZ/2DzDXoPSibCwoSWd66aQeAuEBiy0xlqVnwy1K6ZTTVa1Pc5RtAgofcr
-                zag/qWwZhM6qKBbWazlZN3Qj5xGs7fywv/OJmjr6dPnD2YTUbYdJg4iFc6zLnH4/
-                nyXMVpiLGTRixNRlkO5C/HQkbr0nw0WpZbbhdddkmzsq06JtPnwqxT9XHvw+FwUU
-                yGENcdTPEaJDNJePeJeeN35DPlWkI4Wh+EXChpFkby5hXU3Vo/nOzty7YR5t9kUf
-                fw1bYDZcD9xZOe2XlDSgn0/+8yz3p3KqWUbzd/ZL1OZSNMYmStVbtCKYw1LlQu1L
-                jWkgv2ECgYEA11QRrdkCkrl9ejyD530v78u4zHNY8V27FkaiHSo9DplpBAjlnYg9
-                Qv87StCk+8zORDuI3q4La/KZLhx3Uc1U644d7hxT1E/EY9ZzOPr6aFTGifByxgwv
-                wVJJCBJrw3RhUvAdyoxfI+HVQMaq+wyoWD2eyMMNF2gexNJuRUPDs/0CgYEAzP6r
-                tqJh4Hiig3VRGXhfrUjejKqrlRKWVLJ72ig2bi4YZSeD2wQsn41WPQVsGdNT6tkC
-                u0LWs3f8U9Jc92uihjxmfvwfbj4XG05HniiBwkAtpMqaYIqMkd+3DEuhwWVQdzof
-                FDfR+lXb2BgQsUXns1klL9mDKsdtPpQhn/QMNXkCgYEAhblT8V8f1fcUEeGbGRwJ
-                tSYTcgUAa4UGNuNOskYU/QgQy8yqrJZ7VSwkqmXA0A902bMPYRs9RKC4uIY9I7Qc
-                1NzBgapd9TBEiqwXin9zG2/qjKei35OZ5LkxWa329r9D4bn1BmD+hM4vHbdDX/2Q
-                XpyGC6/2ZV7oHNuCV8mptBECgYAHBntQCQSdssSvCKg83Tk6MRMfcwHqW/a29F72
-                PQaQhBfl75K/QMdeuHNKKBNqVym7FLDZRhMhl20YWk9BU3kAbLV+iJlzJ8GW9/nQ
-                W8cGpzhpO2BLCrSCk04sp7Llc9lsHJvQD5GsqKCeKUT5LlIgfV+e4i9ymd8Ok/kL
-                CEwa0QKBgG6NzdohzunE7hF81IRUtW8G2LIoiJN1FTf/peqbn/Ky4JtKFFxIKKSK
-                taMFlyF7kwzMDaqZcJjgd4rrUDMAHyFAJYYrEydGIsZtvKCB2mstuqaqGJ96nlcj
-                2r/pOxhyh8X0jzzE3FExgojjamXNUSs0bzKF/0okj3iWvk2lB1iI
+          key: $ MIIEowIBAAKCAQEArG0z7tmUleAhoyZGqFW7IImLZZ1C/oiyB7YeBdJ/3KIu2QuhLeQxgf8ucRXIpBsnT6XPh6Sv9CDJ9a6WcVfN5ADK/8jMZEMqQcxStJftum4Kpg5SubYVtn3Gd28sFNb96OdqrSbJHBv1eBXF+gQXOSqZskPKnK5RrytwBzz5LiWIKjCFH94o1M0tfr2fjJ+Cz/5QzgN1NxUMl0SK4Y/5h5r8+UFVMySC8MBZlpJErSR3AkWOdj1V92Dx3lcPxkaSVG2feBvligjjnJIxi+nytrwnLTSwpp/UsWff9LyFr8BHpbXwmxWoXUl6B+bRb4bOXoGn6xzFq3dtJJGhH59zlQIDAQABAoIBAB9ZH0b+gdgZzqPF0rTKGWJZ/2DzDXoPSibCwoSWd66aQeAuEBiy0xlqVnwy1K6ZTTVa1Pc5RtAgofcrzag/qWwZhM6qKBbWazlZN3Qj5xGs7fywv/OJmjr6dPnD2YTUbYdJg4iFc6zLnH4/nyXMVpiLGTRixNRlkO5C/HQkbr0nw0WpZbbhdddkmzsq06JtPnwqxT9XHvw+FwUUyGENcdTPEaJDNJePeJeeN35DPlWkI4Wh+EXChpFkby5hXU3Vo/nOzty7YR5t9kUffw1bYDZcD9xZOe2XlDSgn0/+8yz3p3KqWUbzd/ZL1OZSNMYmStVbtCKYw1LlQu1LjWkgv2ECgYEA11QRrdkCkrl9ejyD530v78u4zHNY8V27FkaiHSo9DplpBAjlnYg9Qv87StCk+8zORDuI3q4La/KZLhx3Uc1U644d7hxT1E/EY9ZzOPr6aFTGifByxgwvwVJJCBJrw3RhUvAdyoxfI+HVQMaq+wyoWD2eyMMNF2gexNJuRUPDs/0CgYEAzP6rtqJh4Hiig3VRGXhfrUjejKqrlRKWVLJ72ig2bi4YZSeD2wQsn41WPQVsGdNT6tkCu0LWs3f8U9Jc92uihjxmfvwfbj4XG05HniiBwkAtpMqaYIqMkd+3DEuhwWVQdzofFDfR+lXb2BgQsUXns1klL9mDKsdtPpQhn/QMNXkCgYEAhblT8V8f1fcUEeGbGRwJtSYTcgUAa4UGNuNOskYU/QgQy8yqrJZ7VSwkqmXA0A902bMPYRs9RKC4uIY9I7Qc1NzBgapd9TBEiqwXin9zG2/qjKei35OZ5LkxWa329r9D4bn1BmD+hM4vHbdDX/2QXpyGC6/2ZV7oHNuCV8mptBECgYAHBntQCQSdssSvCKg83Tk6MRMfcwHqW/a29F72PQaQhBfl75K/QMdeuHNKKBNqVym7FLDZRhMhl20YWk9BU3kAbLV+iJlzJ8GW9/nQW8cGpzhpO2BLCrSCk04sp7Llc9lsHJvQD5GsqKCeKUT5LlIgfV+e4i9ymd8Ok/kLCEwa0QKBgG6NzdohzunE7hF81IRUtW8G2LIoiJN1FTf/peqbn/Ky4JtKFFxIKKSKtaMFlyF7kwzMDaqZcJjgd4rrUDMAHyFAJYYrEydGIsZtvKCB2mstuqaqGJ96nlcj2r/pOxhyh8X0jzzE3FExgojjamXNUSs0bzKF/0okj3iWvk2lB1iI
           #passphrase: ${{ secrets.PASSPHRASE }} # если ваш ssh-ключ защищен фразой-паролем
           script: |
             sudo docker pull sergeidocker/flask-app
